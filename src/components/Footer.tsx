@@ -19,7 +19,7 @@ export const Footer = () => {
           </p>
           <div className="mt-6 pt-6 border-t border-background/20">
             <p className="text-sm opacity-70">
-              © {new Date().getFullYear()} Minpay Consultants LLP. All rights reserved.
+              © {new Date().getFullYear()} MinPay Debt Relief Solutions. All rights reserved.
             </p>
           </div>
         </div>
